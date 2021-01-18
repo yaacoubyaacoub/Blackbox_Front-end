@@ -1,0 +1,222 @@
+body {
+	position: absolute;
+	left: 0%;
+	right: 0%;
+	top: 0%;
+	bottom: 70.17%;
+
+	background: #FFFFFF;
+}
+
+header {
+	position: absolute;
+	width: 1600px;
+	height: 971px;
+	left: 0px;
+	top: 0px;
+
+	background: #F7F8FA;
+	overflow: hidden;
+}
+
+.nav-menu {
+	background: #F7F8FA;
+	position: absolute;
+	width: 1550px;
+	height: 45px;
+	left: 38px;
+	top: 13px;
+}
+
+.menu-item {
+	font-family: url(fonts/CircularStd.otf), sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 28px;
+
+	text-align: right;
+
+	color: #1D293F;
+}
+
+.menu-item:hover {
+  color: #70aed2;
+}
+
+.banner {
+	position: absolute;
+	width: 567px;
+	height: 338px;
+	left: 518px;
+	top: 157px;
+}
+
+.button {
+	position: absolute;
+	left: 30.69%;
+	right: 31.04%;
+	top: 73.37%;
+	bottom: 10.36%;
+}
+
+.button1 {
+	position: relative;
+	left: 10%;
+	right: 0%;
+	top: 15%;
+	bottom: 0%;
+}
+
+.text1 {
+	position: absolute;
+	height: 128px;
+	left: 0%;
+	right: 0%;
+	top: calc(50% - 128px/2 - 102px);
+	font-family: url(fonts/CircularStd.otf), sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 58px;
+	line-height: 64px;
+
+	text-align: center;
+	letter-spacing: -1px;
+
+	color: #1D293F;
+}
+
+.text2 {
+	position: absolute;
+	height: 60px;
+	left: 4.23%;
+	right: 4.59%;
+	top: calc(50% - 60px/2 + 11px);
+
+	font-family: url(fonts/CircularStd.otf), sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	line-height: 30px;
+
+	text-align: center;
+
+	color: #7C8087;
+}
+
+.text3 {
+	position: absolute;
+	height: 20px;
+	width: 137px;
+	left: 200px;
+	top: 319px;
+
+	font-family: url(fonts/CircularStd.otf), sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	line-height: 20px;
+
+	text-align: center;
+
+	color: #8C97AC;
+}
+
+.circle {
+	position: absolute;
+	width: 282px;
+	height: 282px;
+	left: 1079px;
+	top: 510px;
+	border-radius: 50%;
+	background: #38DFF6;
+}
+
+.rect {
+	position: absolute;
+	width: 256px;
+	height: 256px;
+	left: 213.37px;
+	top: 832.27px;
+
+	background: #FFD166;
+	border-radius: 49px;
+	transform: rotate(-22deg);
+}
+
+ul {
+	list-style-type: none;
+}
+
+.back {
+	position: absolute;
+	width: 923px;
+	height: 464px;
+	left: 339px;
+	top: 600px;
+
+	background: #FFFFFF;
+	box-shadow: 0px -18px 84px rgba(29, 41, 63, 0.119946);
+	border-radius: 10px 10px 0px 0px;
+}
+
+.img {
+	position: absolute;
+	width: 925px;
+	height: 658px;
+	left: 337px;
+	top: 600px;
+
+	background: url(images/image.jpg);
+}
+
+.companies {
+	position: absolute;
+	width: 850px;
+	height: 35px;
+	left: 0px;
+	top: 0px;
+
+	mix-blend-mode: normal;
+	opacity: 0.5;
+}
+
+.GeekWire {
+	position: absolute;
+	width: 143px;
+	height: 31px;
+	left: 375px;
+	top: 1022px;
+}
+
+.Slack {
+	position: absolute;
+	width: 104px;
+	height: 27px;
+	left: 592px;
+	top: 1025px;
+}
+
+.envato{
+	position: absolute;
+	width: 136px;
+	height: 26px;
+	left: 754px;
+	top: 1025px;
+}
+
+.USAToday {
+	position: absolute;
+	width: 84px;
+	height: 35px;
+	left: 964px;
+	top: 1021px;
+}
+
+.Forbes {
+	position: absolute;
+	width: 103px;
+	height: 27px;
+	left: 1122px;
+	top: 1025px;
+}
